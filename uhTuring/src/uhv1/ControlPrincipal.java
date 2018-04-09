@@ -50,7 +50,4 @@ public class ControlPrincipal {
         ControlVentanaAdministrar CVA = new ControlVentanaAdministrar();
         CVA.inicia();
     }
-    /*
-    FINAL
-    */
-}
+ }//fin de la clase
